@@ -1,4 +1,4 @@
-# My Todo App (Corrigido)
+# Todo App
 
 Aplicação simples de lista de tarefas usando **Next.js 15 (App Router)** + **TypeScript**.
 
